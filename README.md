@@ -1,3 +1,3 @@
 # Uncovering-Systematic-Failures-of-LLMs-in-Verifying-Code-Against-Natural-Language-Specifications
-This repository include code for paper RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance.
+This repository include code for paper Uncovering-Systematic-Failures-of-LLMs-in-Verifying-Code-Against-Natural-Language-Specifications.
 The full replication package will be realeasing soon
